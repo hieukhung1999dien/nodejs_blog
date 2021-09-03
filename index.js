@@ -8,7 +8,7 @@ const port = 3000
 
 //arrow funtion
 app.get('/hieu', (req, res) => {
-   res.send('Hello World!')
+   res.send('Hello World  sss!')
 })
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
